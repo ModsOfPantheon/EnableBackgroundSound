@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnableBackgroundSound", "EnableBackgroundSound\EnableBackgroundSound.csproj", "{820E9440-DF01-4C68-AA32-D8F52D9BFA4E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{079860B7-C1EA-47B3-83C1-B16381069F16}"
+	ProjectSection(SolutionItems) = preProject
+		Directory.Build.props = Directory.Build.props
+		Directory.Build.targets = Directory.Build.targets
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{820E9440-DF01-4C68-AA32-D8F52D9BFA4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{820E9440-DF01-4C68-AA32-D8F52D9BFA4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{820E9440-DF01-4C68-AA32-D8F52D9BFA4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{820E9440-DF01-4C68-AA32-D8F52D9BFA4E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
